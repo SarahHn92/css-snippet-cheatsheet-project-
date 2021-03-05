@@ -1,0 +1,25 @@
+body {
+    background-color: #234238;
+}
+
+header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    font-size: 70px;
+    color: #450635;
+}
+
+header p {
+    color: #988F96;
+}
+
+section .cards div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
